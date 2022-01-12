@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denyaar
 - 👀 I’m interested in laravel , flutter and springboot
-- 🌱 I’m currently learning POJO
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning spring framework
+- 💞️ I’m looking to collaborate in java projects
 - 📫 How to reach me , https://www.denyaar.co.zw
 
 <!---
