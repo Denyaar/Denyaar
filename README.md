@@ -2,7 +2,7 @@
 - 👀 I’m interested in laravel , flutter and springboot
 - 🌱 I’m currently learning spring framework
 - 💞️ I’m looking to collaborate in java projects
-- 📫 How to reach me , https://www.denyaar.github.io
+- 📫 How to reach me , https://denyaar.github.io/
 
 <!---
 Denyaar/Denyaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
