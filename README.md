@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denyaar
+- 👋 Hi, I’m @Denyaar  (TENDAI NYASHA MUPEZENI)
 - 👀 I’m interested in laravel , flutter(swift) and springboot
 - 🌱 I’m currently learning spring framework and swift
 - 💞️ I’m looking to collaborate in java projects 
